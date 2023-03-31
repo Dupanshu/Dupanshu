@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![logo](https://github.com/Dupanshu/Dupanshu/blob/main/logo.png)
 
-<img align="right" width="430" alt="coading" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" width="430" alt="coading" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h1 align="center">Hi 👋, I'm Dupanshu</h1>
 <h3 align="center">I am IT student at MITT. Also, I am an Astronomy enthusiast.</h3>
