@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <img align="right" width="460" alt="coading" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h1 align="center">Hi 👋, I'm Dupanshu</h1>
-<h3 align="center">I am IT student at MITT. Also, I am an Astronomy enthusiast.</h3>
+<h3 align="center">I am a IT student at MITT. Also, I am an Astronomy enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dupanshu&label=Profile%20views&color=0e75b6&style=flat" alt="dupanshu" /> </p>
 <h3 align="left">Connect with me:</h3>
