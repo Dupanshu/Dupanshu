@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Ranga
 <!--
 **Dupanshu/Dupanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="460" alt="coading" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<h1 align="center">Hi 👋, I'm Dupanshu :)</h1>
+<h1 align="center">Hi, I'm Dupanshu :)</h1>
 <h3 align="center">I am a IT student at MITT. Also, I am an Astronomy enthusiast.></h3>
 <h3 align="center"> You can see my progress below and if you like connect with me through my social-meadia accounts. Thankyou😊></h3>
 
