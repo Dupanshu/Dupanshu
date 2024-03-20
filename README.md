@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 ![logo](https://github.com/Dupanshu/Dupanshu/blob/main/logo.png)
 
-<img align="left" width="460" alt="coading" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" width="460" alt="coading" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <h1 align="center">Hi, I'm Dupanshu :)</h1>
 <h3 align="center">I am a IT student at MITT. Also, I am an Astronomy enthusiast.></h3>
 <h3 align="center"> You can see my progress below and if you like connect with me through my social-meadia accounts. Thankyou😊></h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dupanshu&label=Profile%20views&color=0e75b6&style=flat" alt="dupanshu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dupanshu&label=Profile%20views&color=0e75b6&style=flat" alt="dupanshu" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/dupanshu.rangray.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/dupanshu.rangray.5" height="30" width="40" /></a>
