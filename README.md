@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://images.idgesg.net/images/article/2023/04/shutterstock_1361674454-100939444-large.jpg?auto=webp&quality=85,70)
+![logo](https://wallpapers.com/images/hd/ultrawide-aesthetic-7qegghybz7ab8a7q.webp)
 
 <h1 align="center">Dupanshu</h1>
 <img align="right" width="460" alt="coading" src="https://en.idei.club/uploads/posts/2023-06/1686321156_en-idei-club-p-programing-language-dizain-7.jpg">
