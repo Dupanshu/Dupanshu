@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![logo](https://github.com/Dupanshu/Dupanshu/blob/main/logo.png)
+![logo](https://images.idgesg.net/images/article/2023/04/shutterstock_1361674454-100939444-large.jpg?auto=webp&quality=85,70)
 
 <h1 align="center">Dupanshu</h1>
-<img align="right" width="460" alt="coading" src="https://images.idgesg.net/images/article/2023/04/shutterstock_1361674454-100939444-large.jpg?auto=webp&quality=85,70">
+<img align="right" width="460" alt="coading" src="https://en.idei.club/uploads/posts/2023-06/1686321156_en-idei-club-p-programing-language-dizain-7.jpg">
 <h3 align="center">I am a winnipeg based software developer who enjoys every bit of coding. I am seraching for a job.</h3>
 <h3 align="center">Please, Checkout my work and connect with me through email or text. Thankyou😊</h3>
 
