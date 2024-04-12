@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dupanshu&show_icons=true&locale=en&layout=compact" alt="dupanshu" /> 
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dupanshu&show_icons=true&locale=en&layout=compact&bg_color=c7cae4&" alt="dupanshu" /> 
 </p>
 
 <h3 align="left">Stats :</h3>
-<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=dupanshu&show_icons=true&locale=en" alt="dupanshu" />
-   <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=dupanshu&" alt="dupanshu" />
+<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=dupanshu&show_icons=true&locale=en&bg_color=c7cae4&" alt="dupanshu" />
+   <img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=dupanshu&background=c7cae4&" alt="dupanshu" />
 </p>
 <h1></h1>
 
