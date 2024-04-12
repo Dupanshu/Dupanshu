@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" width="40%" alt="coading" src="https://en.idei.club/uploads/posts/2023-06/1686321156_en-idei-club-p-programing-language-dizain-7.jpg">
 <p align="left"> <img height="22" src="https://komarev.com/ghpvc/?username=dupanshu&label=Profile%20views&color=00003d&style=flat" alt="dupanshu" /> </p>
 
-<h3 align="left">I am a winnipeg based software developer who enjoys every bit of coding. I am seraching for a job.</h3>
+<h3 align="left">I am a winnipeg based software developer who enjoys every bit of coding. I am searching for a job.</h3>
 <h3 align="left">Please, Checkout my work and connect with me through email or text. Thankyou😊</h3>
 
 <h1></h1>
