@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   
 </p>
 
-<h3 align="left">Connet with me through :</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
   <a href="mailto:rangrayd5@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="rangrayd5@gmail.com" title= "email" height="28" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/dupanshu-dupanshu-7556a1271/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/dupanshu-dupanshu-7556a1271/" title= "linkedin" height="28" width="28" /></a>&nbsp;
