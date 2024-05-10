@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title= "CSS" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title= "JavaScript" width="26" height="26"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/768px-React_Logo_SVG.svg.png" alt="React" title= "React_JS" width="26" height="26"/>
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dupanshu&show_icons=true&locale=en&layout=compact&bg_color=c7cae4&" alt="most-used-languages" />
+  <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dupanshu&show_icons=true&locale=en&layout=donut&bg_color=c7cae4&" alt="most-used-languages" />
 </p>
 
 <h3 align="left">Tools :</h3>
