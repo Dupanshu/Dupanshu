@@ -21,30 +21,33 @@ Here are some ideas to get you started:
 
 <h3 align="left">I am a winnipeg based software developer who enjoys every bit of coding.</h3>
 <h3 align="left">Please, Checkout my work and connect with me. Thankyou😊</h3>
-<br><br>
+<br>
 
 ##
 <h3 align="left">Languages :</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
-  title= "HTML-5" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title= "CSS" width="32" height="32"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title= "JavaScript" width="26" height="26"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/768px-React_Logo_SVG.svg.png" alt="React" title= "React_JS" width="26" height="26"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5"
+  title= "HTML-5" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" title= "CSS" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" title= "JavaScript" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" title= "React_JS" width="35" height="35" />
   <img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dupanshu&show_icons=true&locale=en&layout=donut&bg_color=c7cae4&" alt="most-used-languages" />
 </p>
 
 <h3 align="left">Tools :</h3>
 <p align="left">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*18pJwcnAloYOOJnPbDkqkQ.png" alt="OOP" title= "GitHub" width="50" height="30"/>
-  <img src="https://blog.postman.com/wp-content/uploads/2021/03/APIs-in-Postman-e1616786230943.png" alt="APIs" title= "APIs" width="30" height="30"/>
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" title= "GitHub" width="30" height="30"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*18pJwcnAloYOOJnPbDkqkQ.png" alt="OOP" title= "OOP" width="50" height="35" />
+  <img src="https://blog.postman.com/wp-content/uploads/2021/03/APIs-in-Postman-e1616786230943.png" alt="APIs" title= "APIs" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git Bash" title= "Git Bash" width="40" height="40" />
+  
 </p>
 
-<h3 align="left">Social_Networks :</h3>
+<h3 align="left">Connet with me through :</h3>
 <p align="left">
-  <a href="https://www.facebook.com/dupanshu.rangray.5" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/741/223/non_2x/facebook-logo-icon-social-media-icon-free-png.png" alt="facebook.com/dupanshu.rangray.5" title= "facebook" height="30" width="30" /></a>&nbsp;
-  <a href="https://www.instagram.com/thevyomologist" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/017/743/718/non_2x/instagram-icon-logo-free-png.png" alt="instagram.com/thevyomologist/" title= "instagram" height="30" width="30" /></a>
+  <a href="mailto:rangrayd5@gmail.com"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="rangrayd5@gmail.com" title= "email" height="28" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/dupanshu-dupanshu-7556a1271/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/dupanshu-dupanshu-7556a1271/" title= "linkedin" height="28" width="28" /></a>&nbsp;
+  <a href="https://www.facebook.com/dupanshu.rangray.5" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/023/741/223/non_2x/facebook-logo-icon-social-media-icon-free-png.png" alt="facebook.com/dupanshu.rangray.5" title= "facebook" height="28" width="28" /></a>&nbsp;
+  <a href="https://www.instagram.com/thevyomologist" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/017/743/718/non_2x/instagram-icon-logo-free-png.png" alt="instagram.com/thevyomologist/" title= "instagram" height="28" width="28" /></a>
 </p>
 
 <h3 align="left">Stats :</h3>
