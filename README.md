@@ -1,6 +1,6 @@
 <img align="center" width="100%" alt="logo" src="./img/deer.jpg">
 
-<h1 align="center">Dupanshu</h1>
+<h1 align="center">Hello World!</h1>
 <img align="right" width="40%" alt="coading" src="./img/giphy.webp">
 <p align="left"> <img height="22" src="https://komarev.com/ghpvc/?username=dupanshu&label=Profile%20views&color=00003d&style=flat" alt="dupanshu" /> </p>
 
