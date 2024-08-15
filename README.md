@@ -27,10 +27,11 @@ something impressive.</h4>
 <h3 align="left">Tools, Libraries & Frameworks :</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" title= "React_JS" width="auto" height="35" />
-  <img src="https://blog.postman.com/wp-content/uploads/2021/03/APIs-in-Postman-e1616786230943.png" alt="APIs" title= "APIs" width="auto" height="35" />
+  <img src="https://blog.postman.com/wp-content/uploads/2021/03/APIs-in-Postman-e1616786230943.png" alt="APIs" title= "Third Party APIs" width="auto" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="Git Bash" title= "Git Bash" width="auto" height="40" />
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*18pJwcnAloYOOJnPbDkqkQ.png" alt="OOP" title= "OOP" width="auto" height="35" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt="OOP" title= "OOP" width="auto" height="35" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt=".NET" title= ".NET" width="auto" height="35" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" alt="Bootstrap" title= "Bootstrap" width="auto" height="35" />
 </p>
 
 <h3 align="left">Connect with me :</h3>
